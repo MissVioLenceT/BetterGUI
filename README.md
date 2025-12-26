@@ -1,3 +1,3 @@
-# BetterGUI 
+# BetterGUI || Türkçe Versiyon
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/BetterGUI-MC/BetterGUI)](https://github.com/BetterGUI-MC/BetterGUI/releases) [![Build](https://github.com/BetterGUI-MC/BetterGUI/actions/workflows/maven-build.yml/badge.svg)](https://github.com/BetterGUI-MC/BetterGUI/actions/workflows/maven-build.yml) [![Discord](https://img.shields.io/discord/660795353037144064)](https://discord.gg/5vpVM6g4SV) [![Javadocs](https://img.shields.io/badge/javadocs-link-green)](https://bettergui-mc.github.io/BetterGUI)
